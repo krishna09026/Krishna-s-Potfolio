@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Krishna Parmar Soni — Portfolio
 
 A responsive portfolio built with plain HTML, CSS and JavaScript.
@@ -24,3 +25,6 @@ Expected response:
 ```json
 {"focus":"...","feedback":"..."}
 ```
+=======
+# Krishna-s-Potfolio
+>>>>>>> 6f0fdf5953a7165e894459b9271a63abb0b1c030
